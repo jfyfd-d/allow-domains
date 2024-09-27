@@ -658,3 +658,7 @@ nftset=/zf.com/4#inet#fw4#vpn_domains
 nftset=/znanija.com/4#inet#fw4#vpn_domains
 nftset=/zohomail.com/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
+nftset=/discord.com/4#inet#fw4#vpn_domains
+nftset=/discordapp.com/4#inet#fw4#vpn_domains
+nftset=/discord.gg/4#inet#fw4#vpn_domains
+nftset=/discordapp.net/4#inet#fw4#vpn_domains
