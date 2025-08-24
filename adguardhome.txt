@@ -3,5 +3,5 @@
 ! ||anotherdomain.net^$dnsrewrite=NOERROR;A;172.19.0.1
 ! ||*.wildcarddomain.org^$dnsrewrite=NOERROR;A;172.19.0.1
 !
-||reddit.com^$dnsrewrite=NOERROR;A;172.19.0.1
-||*.reddit.com^$dnsrewrite=NOERROR;A;172.19.0.1
+||reddit.com^$dnsrewrite=NOERROR;A;10.19.0.1
+||*.reddit.com^$dnsrewrite=NOERROR;A;10.19.0.1
