@@ -1,0 +1,7 @@
+! ||example.com^$dnsrewrite=NOERROR;A;172.19.0.1
+! ||sub.example.com^$dnsrewrite=NOERROR;A;172.19.0.1
+! ||anotherdomain.net^$dnsrewrite=NOERROR;A;172.19.0.1
+! ||*.wildcarddomain.org^$dnsrewrite=NOERROR;A;172.19.0.1
+
+||reddit.com^$dnsrewrite=NOERROR;A;172.19.0.1
+||*.reddit.com^$dnsrewrite=NOERROR;A;172.19.0.1
