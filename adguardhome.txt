@@ -7,6 +7,12 @@
 ! ||*.github.com^$dnsrewrite=NOERROR;A;10.20.0.1
 ! ||githubusercontent.com^$dnsrewrite=NOERROR;A;10.20.0.1
 ! ||*.githubusercontent.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||cloudflareinsights.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||*.cloudflareinsights.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||mixpanel.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||*.mixpanel.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||google-analytics.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||*.google-analytics.com^$dnsrewrite=NOERROR;A;10.20.0.1
 ||exp-tas.com^$dnsrewrite=NOERROR;A;10.20.0.1
 ||*.exp-tas.com^$dnsrewrite=NOERROR;A;10.20.0.1
 ||githubcopilot.com^$dnsrewrite=NOERROR;A;10.20.0.1
