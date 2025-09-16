@@ -1713,6 +1713,16 @@
 ||*.salesforceiq.com^$dnsrewrite=NOERROR;A;10.20.0.1
 ||salesforceliveagent.com^$dnsrewrite=NOERROR;A;10.20.0.1
 ||*.salesforceliveagent.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||github.io^$dnsrewrite=NOERROR;A;10.20.0.1
+||*.github.io^$dnsrewrite=NOERROR;A;10.20.0.1
+||adtng.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||*.adtng.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||trafficjunky.net^$dnsrewrite=NOERROR;A;10.20.0.1
+||*.trafficjunky.net^$dnsrewrite=NOERROR;A;10.20.0.1
+||apple.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||*.apple.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||vscode-cdn.net^$dnsrewrite=NOERROR;A;10.20.0.1
+||*.vscode-cdn.net^$dnsrewrite=NOERROR;A;10.20.0.1
 ||sap.com^$dnsrewrite=NOERROR;A;10.20.0.1
 ||*.sap.com^$dnsrewrite=NOERROR;A;10.20.0.1
 ||saverudata.info^$dnsrewrite=NOERROR;A;10.20.0.1
