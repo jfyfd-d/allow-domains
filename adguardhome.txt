@@ -2017,6 +2017,10 @@
 ||*.torrenteditor.com^$dnsrewrite=NOERROR;A;10.20.0.1
 ||torrentgalaxy.to^$dnsrewrite=NOERROR;A;10.20.0.1
 ||*.torrentgalaxy.to^$dnsrewrite=NOERROR;A;10.20.0.1
+||trafficjunky.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||*.trafficjunky.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||phncdn.com^$dnsrewrite=NOERROR;A;10.20.0.1
+||*.phncdn.com^$dnsrewrite=NOERROR;A;10.20.0.1
 ||tracker.wf^$dnsrewrite=NOERROR;A;10.20.0.1
 ||*.tracker.wf^$dnsrewrite=NOERROR;A;10.20.0.1
 ||trae.ai^$dnsrewrite=NOERROR;A;10.20.0.1
